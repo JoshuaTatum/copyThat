@@ -2,7 +2,7 @@
 
 jQuery implementation of popular "Copy That" meme. Activated with Ctrl+C or right-click menu.
 
-Simply add, "<script type="text/javascript" src="copyThat-jquery-1.0.js"></script>" to <head> tag.
+Simply add, <script type="text/javascript" src="copyThat-jquery-1.0.js"></script> to <head> tag.
 
 You may have to change the paths in the JS file if you move either the audio files or cursor outside of rsc/.
 
